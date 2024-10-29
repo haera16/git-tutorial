@@ -1,2 +1,2 @@
 console.log('config v1');
-console.log('better12');
+console.log('ver13');
